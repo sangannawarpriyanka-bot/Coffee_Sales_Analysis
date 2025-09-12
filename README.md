@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Coffee_image_view](https://www.bing.com/th/id/OIP.NTygcv5H88Ly-lwYlJS3VQHaE8?w=273&h=211&c=8&rs=1&qlt=90&o=6&cb=thwsc5&dpr=1.5&pid=3.1&rm=2)
+![Coffee_image_view](https://www.creativefabrica.com/wp-content/uploads/2024/04/03/Coffee-HD-image-Ai-Generated-Graphics-94750755-1.jpg)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.

@@ -25,7 +25,7 @@ This Excel dashboard provides a comprehensive analysis of coffee sales performan
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
 ## Dashboard :
-<Image/Screenshot 2025-09-12 151414.png;
+<https://github.com/sangannawarpriyanka-bot/Coffee_Sales_Analysis/blob/main/Image/Screenshot%202025-09-12%20151414.png;
 
 
 

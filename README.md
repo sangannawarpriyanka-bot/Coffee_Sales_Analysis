@@ -26,7 +26,8 @@ I have noticed that the bottom products for all the stores include some flavours
 
 ## Dashboard :
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/cf7f6156-f0cf-4ffe-9c78-ec479c1666d6" />
+<img width="1070" height="598" alt="Dashboard" src="https://github.com/user-attachments/assets/56e312c3-0c54-421e-9415-25f6526bf5a7" />
+
 
 
 

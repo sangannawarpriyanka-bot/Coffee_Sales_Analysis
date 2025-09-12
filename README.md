@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Coffee Background Banner (4)](https://www.google.com/search?sca_esv=1cd912c63e8479c3&rlz=1C1VIQF_enIN1169IN1169&sxsrf=AE3TifPAeAj-sGnTDd_nHtmBvo9dj_T2ww:1757671043445&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJRAdFPaX_SSIJt7xYUfpm-75lA8Uar42yNWdqGuJlUAnl4VoyIc9TvIZo00AnzLuo73CKalUXQ8cWgmottQs4BXh0bU9aRqLPpzWejdabGFvk-MuP83mUuK41Ro6dMLX7Czip9A&q=coffee+images&sa=X&ved=2ahUKEwioxbTx-tKPAxVvSWwGHXA1EQMQtKgLegQIExAB&biw=1280&bih=585&dpr=1.5#vhid=OipurdJos3E0nM&vssid=mosaic)
+![image view](https://www.google.com/search?sca_esv=1cd912c63e8479c3&rlz=1C1VIQF_enIN1169IN1169&sxsrf=AE3TifPAeAj-sGnTDd_nHtmBvo9dj_T2ww:1757671043445&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENwnGygERInUV_0g0XKeHGJRAdFPaX_SSIJt7xYUfpm-75lA8Uar42yNWdqGuJlUAnl4VoyIc9TvIZo00AnzLuo73CKalUXQ8cWgmottQs4BXh0bU9aRqLPpzWejdabGFvk-MuP83mUuK41Ro6dMLX7Czip9A&q=coffee+images&sa=X&ved=2ahUKEwioxbTx-tKPAxVvSWwGHXA1EQMQtKgLegQIExAB&biw=1280&bih=585&dpr=1.5#vhid=OipurdJos3E0nM&vssid=mosaic)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.

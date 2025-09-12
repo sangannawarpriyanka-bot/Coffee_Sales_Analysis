@@ -26,7 +26,8 @@ I have noticed that the bottom products for all the stores include some flavours
 
 ## Dashboard :
 
-![Dashboard Screenshot](<https://github.com/sangannawarpriyanka-bot/Coffee_Sales_Analysis/blob/main/Image/Screenshot%202025-09-12%20151414.png)
+<img width="1016" height="598" alt="Dashboard" src="https://github.com/user-attachments/assets/458420a9-2c91-492b-8eed-5d221d20623d" />
+
 
 
 

@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Cofee image view](https://img.freepik.com/premium-photo/coffee-background_714173-737.jpg)
+![Cofee image view]([https://img.freepik.com/premium-photo/coffee-background_714173-737.jpg](https://www.creativefabrica.com/wp-content/uploads/2024/04/03/Free-Coffee-HD-image-Ai-Generated-Graphics-94751055-1.jpg))
 ## Overview : 
 📊 Overview
 This project presents a Coffee Sales Analysis Dashboard designed to monitor and evaluate sales performance across multiple store locations. Using Excel-based data visualization techniques, the dashboard highlights revenue trends, top-performing products, and customer behavior patterns.

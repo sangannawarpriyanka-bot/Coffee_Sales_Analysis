@@ -23,8 +23,9 @@ This project presents a Coffee Sales Analysis Dashboard designed to monitor and 
 
 
 ## Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
-
+☕ Coffee Sales – Data Story
+📖 Story Overview
+This analysis captures the performance of Starbucks coffee sales across Astoria, Hell’s Kitchen, and Lower Manhattan. Using six months of data, we identify revenue trends, customer behavior patterns, and product performance to guide data-driven decisions.
 ## Dashboard :
 
 <img width="1070" height="598" alt="Dashboard" src="https://github.com/user-attachments/assets/56e312c3-0c54-421e-9415-25f6526bf5a7" />

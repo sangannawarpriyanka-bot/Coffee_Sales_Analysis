@@ -1,7 +1,9 @@
 # Coffee Sales Dashboard
 ![Cofee image view](https://img.freepik.com/premium-photo/coffee-background_714173-737.jpg)
 ## Overview : 
-This Excel dashboard provides a comprehensive analysis of coffee sales performance across multiple store locations. It helps track monthly revenue trends, weekly and daily sales patterns, and product performance.
+📊 Overview
+This project presents a Coffee Sales Analysis Dashboard designed to monitor and evaluate sales performance across multiple store locations. Using Excel-based data visualization techniques, the dashboard highlights revenue trends, top-performing products, and customer behavior patterns.
+
 ## Tool used :
 ![view_image](https://logodix.com/logo/34636.png)
 

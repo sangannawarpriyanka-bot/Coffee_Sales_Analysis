@@ -6,7 +6,7 @@
 This project presents a Coffee Sales Analysis Dashboard designed to monitor and evaluate sales performance across multiple store locations. Using Excel-based data visualization techniques, the dashboard highlights revenue trends, top-performing products, and customer behavior patterns.
 
 ## Tool used :
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/929ee3a0-b1a1-4059-9a8a-026728893e9b" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/13437365-deda-4fa9-ae54-f200a659f4fa" />
 
 
 ## Result and Insights :

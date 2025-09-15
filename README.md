@@ -24,7 +24,7 @@ This project presents a Coffee Sales Analysis Dashboard designed to monitor and 
 
 ## Data Story :
 ☕ Coffee Sales – Data Story
-📖 Story Overview
+
 This analysis captures the performance of Starbucks coffee sales across Astoria, Hell’s Kitchen, and Lower Manhattan. Using six months of data, we identify revenue trends, customer behavior patterns, and product performance to guide data-driven decisions.
 ## Dashboard :
 

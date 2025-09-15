@@ -8,12 +8,15 @@ This project presents a Coffee Sales Analysis Dashboard designed to monitor and 
 ![view_image](https://logodix.com/logo/34636.png)
 
 ## Result and Insights :
-- I have noticed that the Revenue is continuously growing.
-- The busiest days are Mondays, Thursdays, and Fridays. This makes sense since people like to visit coffee shops when they are all jacked up for work.
-- The busiest hours are in the mornings when people are visiting their offices.
-- This trend is similar for all the stores.
-- The top category is coffee and the product is Barista Espresso across the board.
+🎯 6. Key Insights & Recommendations
 
+Revenue is growing but missing monthly targets.
+
+Peak times (Fridays, mornings) should be leveraged for promotions.
+
+Consider pushing underperforming items during slow hours/days.
+
+Replicate best-selling product strategies across locations.
 ## Additional Insights
 - We can see a continuous growth in revenue which indicates increasing popularity and success of the business
 - We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
